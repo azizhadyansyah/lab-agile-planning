@@ -1,7 +1,6 @@
 ---
-name: User Story
-about: This is for creating a User Story Template, it should use to start a story
-  in dev.
+name: User Story Template
+about: This template defines a 'new' user story.
 title: ''
 labels: ''
 assignees: ''
